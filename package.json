@@ -1,0 +1,27 @@
+{
+  "name": "gitbot",
+  "version": "1.0.0",
+  "description": "Simple check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshi7016/dev-react-hook.git.git"
+  },
+  "keywords": [
+    "check"
+  ],
+  "author": "Harshith Venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshi7016/dev-react-hook.git/issues"
+  },
+  "homepage": "https://github.com/Harshi7016/dev-react-hook.git#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "simple-git": "^2.14.0"
+  }
+}
