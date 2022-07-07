@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Harshi7016/dev-react-hook.git#readme",
   "dependencies": {
     "jsonfile": "^6.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "simple-git": "^2.14.0"
   }
 }
